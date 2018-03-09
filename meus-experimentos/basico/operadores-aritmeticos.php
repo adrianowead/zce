@@ -12,3 +12,9 @@ Teste de sequência dos operadores aritméticos.
 | $a % $b  | Módulo        | Resto de $a dividido por $b.                           |
 | $a ** $b | Exponencial   | Resultado de $a elevado a $b. Introduzido no PHP 5.6.  |
 +----------+---------------+--------------------------------------------------------+
+
+Sequência, dois itens na mesma linha, é o que aparecer primeiro:
+()
+**
+*, /
++, -
