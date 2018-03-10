@@ -2,7 +2,7 @@ Uma série de cálculos usando operadores aritméticos e bitwise.
 
 
 1) 8 * 3 / 4 | 9 - 15
-R: -2 (o bitwise foi resolvido primeiro, resultando eum 6 | - 6, no final deu -2)
+R: -2 (o bitwise foi resolvido no final, depois de todas as operações, resultando eum 6 | - 6, no final deu -2)
 
 <?php
     // etapas de cálculo
