@@ -19,6 +19,11 @@ Sequência, dois itens na mesma linha, é o que aparecer primeiro:
 *, /
 +, -
 
+Documentação sobre a precedência de operadores:
+http: //php.net/manual/pt_BR/language.operators.precedence.php
+
+
+
 <?php
     echo 5 / 3;
     echo chr(13).chr(10);
